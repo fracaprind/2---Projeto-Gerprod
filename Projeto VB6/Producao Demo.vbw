@@ -1,0 +1,12 @@
+Gerprod = 44, 44, 379, 390, 
+frmabertura = 88, 116, 462, 462, C, -13, 57, 400, 406, C
+frmfundo = 110, 145, 418, 487, C, 1, 1, 414, 350, C
+Mdl_HH_MM_SS = -31, 253, 705, 656, 
+frmabrir_OS = 110, 111, 571, 556, , 89, 89, 548, 538, C
+frmProducao = 23, 48, 484, 494, Z, 177, 177, 636, 626, C
+frmOpcoesGeral2 = 88, 88, 688, 483, C, 23, 23, 490, 471, C
+frmOpcoesGeral2_Subs = 66, 66, 650, 453, C, 45, 45, 512, 493, C
+frmOpcoesGeral_SelEmpresa = 132, 132, 708, 652, C, 67, 67, 534, 515, C
+frmabrir_Ordem = 0, 0, 576, 520, C, 67, 67, 641, 590, C
+frmManutencao = 66, 87, 628, 543, C, 44, 58, 606, 514, C
+frmCQ_sistema = 264, 216, 858, 695, C, 33, 27, 627, 506, C
